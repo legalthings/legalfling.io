@@ -2,122 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96346bbe-28e8-4758-bd61-4f9e335aa51c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/404-error.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-2-columns.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-3-columns.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-fullwidth.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-single-left-sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-single-right-sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-single.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/coming-soon.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/ionicons.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/magnific-popup/magnific-popup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/owl-carousel/owl.carousel.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/ionicons.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about-us.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about/04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/about/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ajax-loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/banner/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/05.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/06.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/07.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/blog/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/clients/gray/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/faq-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/logo-footer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/05.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/06.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/services/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/services/icon1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/services/icon2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/services/icon3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/shutterstock_499266745.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/shutterstock_662149150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/shutterstock_731114065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/team/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/team/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/team/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/team/04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/team/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/testimonial/01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/testimonial/02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/testimonial/03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/testimonial/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/counter/jquery.countTo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.appear.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.countdown.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/magnific-popup/jquery.magnific-popup.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/retina.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/skrollr.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/wow.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/php/contact-form.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/video/01.mp4" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -131,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="596" column="29" lean-forward="false" selection-start-line="596" selection-start-column="29" selection-end-line="596" selection-end-column="29" />
+            <state relative-caret-position="302">
+              <caret line="650" column="11" lean-forward="false" selection-start-line="650" selection-start-column="11" selection-end-line="650" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -182,7 +68,11 @@
       <find>iq-home</find>
       <find>screenshots</find>
       <find>download</find>
+      <find>images</find>
     </findStrings>
+    <replaceStrings>
+      <replace>./images</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -190,10 +80,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/php/contact-form.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -235,6 +125,11 @@
             <path>
               <item name="new_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="new_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new_app" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513897816886</updated>
-      <workItem from="1513897818136" duration="2055000" />
+      <workItem from="1513897818136" duration="2393000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2055000" />
+    <option name="totallyTimeSpent" value="2393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1225" height="777" extended-state="6" />
@@ -297,7 +192,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -328,18 +223,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="596" column="29" lean-forward="false" selection-start-line="596" selection-start-column="29" selection-end-line="596" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -359,8 +242,20 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="650" column="11" lean-forward="false" selection-start-line="650" selection-start-column="11" selection-end-line="650" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
