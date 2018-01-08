@@ -18,12 +18,12 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 :: Loader
 :: Buttons
 :: Div Shadow
-:: Page Section Margin Padding 
-:: Text Weight 
-:: Text Color 
-:: Background Color 
+:: Page Section Margin Padding
+:: Text Weight
+:: Text Color
+:: Background Color
 :: BG Effect
-:: Background Gradient 
+:: Background Gradient
 :: Section Title
 :: Header
 :: Banner
@@ -424,11 +424,11 @@ blockquote {
 }
 
 /*---------------------------------------------------------------------
-                    Page Section Margin Padding 
+                    Page Section Margin Padding
 ---------------------------------------------------------------------*/
 
 /*----------------
-Section padding 
+Section padding
 ----------------*/
 .overview-block-ptb {
     padding: 100px 0;
@@ -443,7 +443,7 @@ Section padding
 }
 
 /*----------------
-Padding All 
+Padding All
 ----------------*/
 .iq-pall {
     padding: 0px;
@@ -498,7 +498,7 @@ Padding All
 }
 
 /*----------------
-Padding Top and Bottom 
+Padding Top and Bottom
 ----------------*/
 .iq-ptb-0 {
     padding: 0;
@@ -553,7 +553,7 @@ Padding Top and Bottom
 }
 
 /*----------------
-Padding Left and right 
+Padding Left and right
 ----------------*/
 .iq-plr-0 {
     padding: 0;
@@ -608,7 +608,7 @@ Padding Left and right
 }
 
 /*----------------
-Padding top 
+Padding top
 ----------------*/
 .iq-pt-0 {
     padding-top: 0px;
@@ -663,7 +663,7 @@ Padding top
 }
 
 /*----------------
-Padding Bottom 
+Padding Bottom
 ----------------*/
 .iq-pb-0 {
     padding-bottom: 0px;
@@ -718,7 +718,7 @@ Padding Bottom
 }
 
 /*----------------
-Padding Left 
+Padding Left
 ----------------*/
 .iq-pl-0 {
     padding-left: 0;
@@ -773,7 +773,7 @@ Padding Left
 }
 
 /*----------------
-Padding Right 
+Padding Right
 ----------------*/
 .iq-pr-0 {
     padding-right: 0px;
@@ -828,7 +828,7 @@ Padding Right
 }
 
 /*----------------
-Margin All 
+Margin All
 ----------------*/
 .iq-mall-0 {
     margin: 0;
@@ -883,7 +883,7 @@ Margin All
 }
 
 /*----------------
-Margin Top and Bottom 
+Margin Top and Bottom
 ----------------*/
 .iq-mtb-0 {
     margin: 0;
@@ -938,7 +938,7 @@ Margin Top and Bottom
 }
 
 /*----------------
-Margin Left and Right 
+Margin Left and Right
 ----------------*/
 .iq-mlr-0 {
     margin: 0;
@@ -993,7 +993,7 @@ Margin Left and Right
 }
 
 /*----------------
-Margin Top 
+Margin Top
 ----------------*/
 .iq-mt-0 {
     margin-top: 0px;
@@ -1048,7 +1048,7 @@ Margin Top
 }
 
 /*----------------
-Margin Bottom 
+Margin Bottom
 ----------------*/
 .iq-mb-0 {
     margin-bottom: 0px;
@@ -1103,7 +1103,7 @@ Margin Bottom
 }
 
 /*----------------
-Margin Left 
+Margin Left
 ----------------*/
 .iq-ml-0 {
     margin-left: 0px;
@@ -1213,7 +1213,7 @@ Margin Right
 }
 
 /*---------------------------------------------------------------------
-                            Text Weight 
+                            Text Weight
 -----------------------------------------------------------------------*/
 .iq-tw-1 {
     font-weight: 100;
@@ -1252,7 +1252,7 @@ Margin Right
 }
 
 /*---------------------------------------------------------------------
-                            Text Color 
+                            Text Color
 -----------------------------------------------------------------------*/
 .iq-font-blue {
     color: #1e50e2;
@@ -1279,7 +1279,7 @@ Margin Right
 }
 
 /*---------------------------------------------------------------------
-                          Background Color 
+                          Background Color
 -----------------------------------------------------------------------*/
 .white-bg {
     background: #ffffff;
@@ -1329,7 +1329,7 @@ Margin Right
 }
 
 /*---------------------------------------------------------------------
-                       Background Gradient 
+                       Background Gradient
 ---------------------------------------------------------------------*/
 .iq-over-black-80:before {
     content: "";
@@ -1375,7 +1375,7 @@ Margin Right
                            Section Title
 -----------------------------------------------------------------------*/
 .heading-title {
-    margin-bottom: 80px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
