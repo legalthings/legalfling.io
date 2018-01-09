@@ -1,16 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Appino - Responsive App Landing Page" />
-    <meta name="author" content="iqonicthemes.in" />
+    <meta name="description" content="Powered by LiveContracts.io &middot; Secured in the Blockchain" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-    <title>Appino - Responsive App Landing Page</title>
+    <title>Legal Fling - Explicit sexual consensus</title>
     
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
@@ -46,6 +43,8 @@
 
     <!-- custom style -->
     <link rel="stylesheet" href="css/custom.css" />
+    <!-- colors scheme -->
+    <link rel="stylesheet" href="css/colors.css"/>
 
 </head>
 
@@ -76,22 +75,9 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="#">
+                            <a class="navbar-brand" href="/">
                                 <img src="images/logo.png" alt="logo">
                             </a>
-                        </div>
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav navbar-right">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="#about-us">About Us</a></li>
-                                <li><a href="#features">Features</a></li>
-                                <li><a href="#screenshots">Screenshots</a></li>
-                                <li><a href="#team">Team</a></li>
-                                <li><a href="#pricing">Pricing</a></li>
-                                <li><a href="blog-2-columns.html">Blog</a></li>
-                                <li><a href="#contact-us">Contact Us</a></li>
-                            </ul>
                         </div>
                         <!-- /.navbar-collapse -->
                     </nav>
@@ -131,12 +117,6 @@
                     <div class="big-text iq-tw-7">404</div>
                     <h3 class="iq-font-light iq-tw-6 iq-mtb-10">Oops! This Page is Not Found</h3>
                     <h6 class="iq-tw-6 iq-font-white iq-pall-10">Please go back to home and try to find out once again.</h6>
-                    <form class="form-inline iq-subscribe iq-mtb-60">
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="exampleInputName2" placeholder="Enter Your Email Here">
-                        </div>
-                        <a class="button iq-ml-25" href="#">subscribe</a>
-                    </form>
                 </div>
             </div>
         </div>
@@ -148,111 +128,21 @@
 
     <div class="iq-ptb-60 green-bg iq-subscribe">
         <div class="container">
-          <div class="row">
-            <div class="col-sm-12 text-center">
-              <form class="form-inline">
-                <div class="form-group">
-                  <label for="email">Subscribe Our Newsletter</label>
-                  <input type="email" class="form-control" placeholder="Enter Your Email" id="email">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <form class="subscribe-form form-inline" novalidate="true">
+                        <div class="form-group">
+                            <label for="email">Subscribe for LegalFling</label>
+                            <input type="email" class="form-control" placeholder="Enter Your Email" id="email" name="EMAIL">
+                        </div>
+                        <button class="button bt-white re-mt-30">Subscribe Now</button>
+                    </form>
                 </div>
-                <a href="#" class="button bt-white re-mt-30">Subscribe Now</a>
-              </form>
             </div>
-          </div>
         </div>
     </div>
 
     <!-- Subscribe Our Newsletter END -->
-
-
-    <!-- full-contact -->
-
-    <section id="contact-us" class="iq-full-contact white-bg">
-        <div class="container-fluid">
-
-
-        <div class="row no-gutter">
-            <div class="col-sm-6">
-                <div class="iq-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.840108181602!2d144.95373631539215!3d-37.8172139797516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1497005461921" style="border:0" allowfullscreen></iframe>
-    </div>
-            </div>
-            <div class="col-sm-6 iq-mt-20 iq-pall-40">
-                <h4 class="heading-left iq-tw-6 iq-pb-20">Get in Touch</h4>
-                <div class="row">
-                            <div id="formmessage">Success/Error Message Goes Here</div>
-                            <form class="form-horizontal" id="contactform" method="post" action="../php/contact-form.php">
-                                <div class="contact-form">
-                                    <div class="col-sm-6">
-                                        <div class="section-field">
-                                            <input id="name" type="text" placeholder="Name*" name="name">
-                                        </div>
-                                        <div class="section-field">
-                                            <input type="email" placeholder="Email*" name="email">
-                                        </div>
-                                        <div class="section-field">
-                                            <input type="text" placeholder="Phone*" name="phone">
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="section-field textarea">
-                                            <textarea class="input-message" placeholder="Comment*" rows="7" name="message"></textarea>
-                                        </div>
-                                        <input type="hidden" name="action" value="sendEmail" />
-                                        <button id="submit" name="submit" type="submit" value="Send" class="button pull-right iq-mt-40">Send Message</button>
-                                    </div>
-                                </div>
-                            </form>
-                            <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader.gif" alt=""></div>
-                        </div>
-            </div>
-        </div>
-
-
-        </div>
-        <div class="container">
-            <div class="row iq-ptb-80">
-                <div class="col-sm-6 col-md-4 col-lg-4">
-                    <div class="iq-fancy-box-04">
-                        <div class="iq-icon green-bg">
-                            <i aria-hidden="true" class="ion-ios-location-outline"></i>
-                        </div>
-                        <div class="fancy-content">
-                            <h5 class="iq-tw-6">Address</h5>
-                            <span class="lead iq-tw-6">1234 North Luke Lane, South Bend,IN 360001</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-4">
-                    <div class="iq-fancy-box-04">
-                        <div class="iq-icon green-bg">
-                            <i aria-hidden="true" class="ion-ios-telephone-outline"></i>
-                        </div>
-                        <div class="fancy-content">
-                            <h5 class="iq-tw-6">Phone</h5>
-                            <span class="lead iq-tw-6">+0123 456 789</span>
-                            <p class="iq-mb-0">Mon-Fri 8:00am - 8:00pm</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4 col-lg-4">
-                    <div class="iq-fancy-box-04">
-                        <div class="iq-icon green-bg">
-                            <i aria-hidden="true" class="ion-ios-email-outline"></i>
-                        </div>
-                        <div class="fancy-content">
-                            <h5 class="iq-tw-6">Mail</h5>
-                            <span class="lead iq-tw-6">support@appino.com</span>
-                            <p class="iq-mb-0">24 X 7 online support</p>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    
-    <!-- full-contact END -->
 
     <!-- Footer -->
 
@@ -260,14 +150,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <div class="footer-copyright iq-pt-10">Copyright @ <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> <a href="#" class="text-green">Appino.</a> All Rights Reserved </div>
+                    <div class="footer-copyright iq-pt-10">Copyright LegalFling <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span>
+                        <a href="https://legalthings.io" class="text-green">LegalThings B.V. of Amsterdam, the Netherlands.</a> All Rights Reserved
+                    </div>
                 </div>
                 <div class="col-sm-6">
                     <ul class="info-share">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google"></i></a></li>
-                        <li><a href="#"><i class="fa fa-github"></i></a></li>
+                        <li><a href="https://twitter.com/livecontracts"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://github.com/legalthings"><i class="fa fa-github"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -320,6 +210,9 @@
 
     <!-- bootstrap -->
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <!-- Mailchimp -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxchimp/1.3.0/jquery.ajaxchimp.min.js"></script>
 
     <!-- Style Customizer --> 
     <script type="text/javascript" src="js/style-customizer.js"></script> 
