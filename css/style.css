@@ -2842,6 +2842,19 @@ header.affix .navbar-nav {
     color: #fff;
 }
 
+.subscribe-success,
+.subscrube-error {
+    display: none;
+    color: white;
+}
+
+.modal .iq-subscribe label {
+    font-size: 18px;
+}
+.modal .iq-subscribe label:before {
+    display: none;
+}
+
 /*---------------------------------------------------------------------
                            Breadcrumb Inner Page
 -----------------------------------------------------------------------*/

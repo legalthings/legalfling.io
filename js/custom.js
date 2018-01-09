@@ -311,7 +311,33 @@ function navbar() {
     });
 }
 
+function initSubscribeMailChimp() {
+  var $form = null;
 
+  $('.subscribe-form').submit(function(e) {
+    e.preventDefault();
+    $form = $(this);
+  });
+
+  $('.subscribe-form').ajaxChimp({
+    callback: function(resp) {
+      var $error = $form.find('.subscribe-error');
+      var $success = $form.find('.subscribe-success');
+
+      $error.hide();
+      $success.hide();
+
+      if (resp.result === 'error') {
+        $error.show().html(resp.msg);
+        $success.hide();
+      } else {
+        $error.hide();
+        $success.show();
+      }
+    },
+    url: 'https://legalthings.us17.list-manage.com/subscribe/post?u=1508bdb96b4379a9aeb07c6e8&id=4d547d770f'
+  });
+}
 
 $(document).ready(function() {
         preloader(),
@@ -324,7 +350,8 @@ $(document).ready(function() {
         owlcarousel(),
         accordion(),
         widget(),
-        counter();
+        counter(),
+        initSubscribeMailChimp();
 });
 
 
