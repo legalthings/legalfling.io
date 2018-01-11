@@ -1617,14 +1617,15 @@ header.affix .navbar-nav {
 }
 
 .banner-03 h1 {
-    font-size: 60px;
-    line-height: 110px;
+    font-size: 56px;
+    line-height: 2;
     text-shadow: 0px 20px 10px rgba(0, 0, 0, 0.1);
-    margin-top: 15%;
+    margin-top: 11%;
     letter-spacing: 2px;
 }
 
 .banner-03 h1 small {
+    margin-top: 32px;
     font-size: 18px;
     display: block;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
@@ -3463,4 +3464,48 @@ header.affix .navbar-nav {
     color: #6806e0;
     text-shadow: 0px 0px 8px hsla(333, 67%, 80%, 1);
 
+}
+
+#iq-home .hero-btn {
+    margin: 0 auto;
+    height: 70px;
+    margin-top: 32px;
+    line-height: 1.7;
+    color: #9a33d1;
+    background: white;
+    border: 2px solid white;
+    box-shadow: 0px 0px 6px grey;
+    font-size: 25px;
+}
+
+#iq-home .hero-btn:hover {
+    color: white;
+    background: transparent;
+    border: 2px solid white;
+}
+
+#iq-home h2 {
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+}
+
+.hero-livecontracts-section {
+    margin-top: 42px;
+}
+
+.hero-livecontracts-section h4 {
+    font-size: 20px;
+    color: white;
+}
+
+.hero-livecontracts-section a:not(.button) {
+    text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    #iq-home h2 {
+        margin-top: 8px;
+        font-size: 20px;
+    }
 }
