@@ -1669,7 +1669,7 @@ header.affix .navbar-nav {
     text-align: center;
     display: inline-block;
     margin-bottom: -190px;
-    margin-top: -30px;
+    margin-top: 0px;
 }
 
 .iq-mobile-app .iq-mobile-box .iq-mobile-img {
@@ -3453,4 +3453,14 @@ header.affix .navbar-nav {
 
 #iq-home .link .list-inline {
     margin-left: 40px;
+}
+
+.iq-our-clients .owl-carousel .owl-item img {
+    width: 160px;
+}
+
+.iq-font-white .iq-tw-6 a:hover {
+    color: #6806e0;
+    text-shadow: 0px 0px 8px hsla(333, 67%, 80%, 1);
+
 }
