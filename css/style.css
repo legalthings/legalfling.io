@@ -237,6 +237,10 @@ blockquote {
     border: none !important;
 }
 
+iframe {
+    max-width: 100%;
+}
+
 /*---------------------------------------------------------------------
                                Back to Top
 -----------------------------------------------------------------------*/
@@ -3492,6 +3496,7 @@ header.affix .navbar-nav {
 
 .hero-livecontracts-section {
     margin-top: 42px;
+    margin-bottom: 60px;
 }
 
 .hero-livecontracts-section h4 {
@@ -3512,5 +3517,9 @@ header.affix .navbar-nav {
     #iq-home .hero-btn {
         font-size: 21px;
         line-height: 2.1;
+    }
+
+    .hero-livecontracts-section {
+        margin-bottom: 0;
     }
 }
