@@ -8,3 +8,14 @@ Design and Developed by: iqonicthemes.in
 NOTE: You can use your styling layout by this file to your website.
 
 */
+
+.new-h1 {
+	font-size: 28px;
+	line-height: 40px;
+}
+
+.new-h2 {
+	font-size: 18px;
+	line-height: 30px;
+}
+
