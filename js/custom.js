@@ -344,7 +344,6 @@ $(document).ready(function() {
         backtotop(),
         navbar(),
         imgskrollr(),
-        countdown1(),
         popupgallery(),
         hovereffect(),
         owlcarousel(),
